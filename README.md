@@ -14,4 +14,4 @@ If you change the location of the files or if you want to change their names, re
 -At random moments produce a super Pacman that can endure more bounces than the rest!! it might have special effects...
 
 #Licence information
-This exercise was submitted as assignment for the MITxPRO Professional Certificate in Coding: Full Stack Development with MERN, as such it counts with the MIT licence as it is published for graduation.
+This exercise was submitted as assignment for the MITxPRO Professional Certificate in Coding: Full Stack Development with MERN, as such it counts with the MIT licence as it is published to be assigned a grade.
